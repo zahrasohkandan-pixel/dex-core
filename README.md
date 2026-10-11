@@ -1,5 +1,5 @@
 .# STON.fi Decentralized Exchange
-[![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org/)
+[![TON](https://img.shields.io/badge/based%20on-TON.-blue)](https://ton.org/)
 [![License](https://img.shields.io/badge/license-GPL--3.0-brightgreen)](https://opensource.org/licenses/GPL-3.0)
 
 Core contracts for the STON.fi DEX protocol.
